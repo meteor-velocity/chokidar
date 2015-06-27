@@ -1,8 +1,8 @@
-var chokidarVersion = '1.0.1';
+var chokidarVersion = '1.0.2';
 
 Package.describe({
   name: 'velocity:chokidar',
-  version: chokidarVersion + '_2',
+  version: chokidarVersion + '_1',
   // Brief, one-line summary of the package.
   summary: 'The npm module chokidar packaged as Meteor package.',
   // URL to the Git repository containing the source code for this package.
