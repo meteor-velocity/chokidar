@@ -1,4 +1,4 @@
-var chokidarVersion = '1.0.2';
+var chokidarVersion = '1.0.3';
 
 Package.describe({
   name: 'velocity:chokidar',
