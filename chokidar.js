@@ -1,1 +1,2 @@
-chokidar = Npm.require('chokidar');
+if (Meteor.isServer) 
+    chokidar = Npm.require('chokidar');
